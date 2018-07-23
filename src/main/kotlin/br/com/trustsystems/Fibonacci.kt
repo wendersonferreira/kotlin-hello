@@ -2,7 +2,6 @@ package br.com.trustsystems
 
 fun main(args: Array<String>) {
     val fibonacciNumber = 300
-
     print(fib(fibonacciNumber))
 }
 
